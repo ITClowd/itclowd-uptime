@@ -36,17 +36,17 @@
     "url": "https://nextcloud.itclowd.de",
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/common/favicon.png?x53054",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.07%",
-    "time": 1215,
-    "timeDay": 906,
-    "timeWeek": 1159,
-    "timeMonth": 1091,
-    "timeYear": 1192,
+    "time": 1214,
+    "timeDay": 937,
+    "timeWeek": 1135,
+    "timeMonth": 1087,
+    "timeYear": 1191,
     "dailyMinutesDown": {
       "2025-07-15": 180,
       "2025-07-16": 68,
@@ -63,7 +63,7 @@
       "2026-02-10": 224,
       "2026-02-13": 29,
       "2026-05-20": 488,
-      "2026-07-04": 0
+      "2026-07-04": 5
     }
   },
   {
