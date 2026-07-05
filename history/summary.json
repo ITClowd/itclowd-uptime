@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.91%",
-    "time": 551,
-    "timeDay": 451,
-    "timeWeek": 561,
-    "timeMonth": 498,
+    "time": 550,
+    "timeDay": 444,
+    "timeWeek": 540,
+    "timeMonth": 499,
     "timeYear": 548,
     "dailyMinutesDown": {
       "2025-07-16": 895,
@@ -38,14 +38,14 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
     "time": 1214,
-    "timeDay": 937,
-    "timeWeek": 1135,
-    "timeMonth": 1087,
+    "timeDay": 958,
+    "timeWeek": 1099,
+    "timeMonth": 1088,
     "timeYear": 1191,
     "dailyMinutesDown": {
       "2025-07-15": 180,
@@ -62,8 +62,7 @@
       "2026-01-12": 59,
       "2026-02-10": 224,
       "2026-02-13": 29,
-      "2026-05-20": 488,
-      "2026-07-04": 5
+      "2026-05-20": 488
     }
   },
   {
@@ -78,8 +77,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.06%",
     "time": 533,
-    "timeDay": 448,
-    "timeWeek": 543,
+    "timeDay": 444,
+    "timeWeek": 520,
     "timeMonth": 500,
     "timeYear": 532,
     "dailyMinutesDown": {
