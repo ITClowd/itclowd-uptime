@@ -74,16 +74,16 @@
     "url": "https://matrix.itclowd.de/_matrix/federation/v1/version",
     "icon": "https://matrix.org/assets/favicon.ico",
     "slug": "matrix-homeserver",
-    "status": "down",
+    "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.75%",
     "time": 528,
-    "timeDay": 511,
-    "timeWeek": 516,
-    "timeMonth": 500,
+    "timeDay": 477,
+    "timeWeek": 507,
+    "timeMonth": 498,
     "timeYear": 526,
     "dailyMinutesDown": {
       "2025-08-18": 362,
@@ -93,7 +93,7 @@
       "2026-02-10": 224,
       "2026-02-13": 29,
       "2026-05-20": 488,
-      "2026-08-17": 0
+      "2026-08-17": 35
     }
   },
   {
