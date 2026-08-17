@@ -13,7 +13,7 @@
     "time": 544,
     "timeDay": 526,
     "timeWeek": 513,
-    "timeMonth": 508,
+    "timeMonth": 511,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2025-08-18": 135,
@@ -39,7 +39,7 @@
     "time": 1195,
     "timeDay": 1049,
     "timeWeek": 1047,
-    "timeMonth": 1092,
+    "timeMonth": 1095,
     "timeYear": 1119,
     "dailyMinutesDown": {
       "2025-08-18": 135,
@@ -65,7 +65,7 @@
     "time": 502,
     "timeDay": 422,
     "timeWeek": 508,
-    "timeMonth": 502,
+    "timeMonth": 504,
     "timeYear": 502,
     "dailyMinutesDown": {}
   },
@@ -74,16 +74,16 @@
     "url": "https://matrix.itclowd.de/_matrix/federation/v1/version",
     "icon": "https://matrix.org/assets/favicon.ico",
     "slug": "matrix-homeserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 528,
     "timeDay": 511,
     "timeWeek": 516,
-    "timeMonth": 499,
+    "timeMonth": 500,
     "timeYear": 526,
     "dailyMinutesDown": {
       "2025-08-18": 362,
@@ -92,7 +92,8 @@
       "2026-01-12": 59,
       "2026-02-10": 224,
       "2026-02-13": 29,
-      "2026-05-20": 488
+      "2026-05-20": 488,
+      "2026-08-17": 0
     }
   },
   {
@@ -109,7 +110,7 @@
     "time": 613,
     "timeDay": 564,
     "timeWeek": 609,
-    "timeMonth": 613,
+    "timeMonth": 614,
     "timeYear": 613,
     "dailyMinutesDown": {}
   },
@@ -127,7 +128,7 @@
     "time": 1235,
     "timeDay": 1161,
     "timeWeek": 1234,
-    "timeMonth": 1235,
+    "timeMonth": 1240,
     "timeYear": 1235,
     "dailyMinutesDown": {}
   }
