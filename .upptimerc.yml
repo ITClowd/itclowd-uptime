@@ -9,8 +9,8 @@ sites:
   - name: Nextcloud
     url: https://nextcloud.itclowd.de
     icon: https://nextcloud.com/c/uploads/2022/03/favicon.png
-  - name: OnlyOffice Document Server
-    url: https://onlyoffice.itclowd.de/healthcheck
+  - name: Euro-Office Docs
+    url: https://office.itclowd.de/healthcheck
   - name: Matrix Homeserver
     url: https://matrix.itclowd.de/_matrix/federation/v1/version
     icon: https://matrix.org/assets/favicon.ico
