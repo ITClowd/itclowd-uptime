@@ -29,9 +29,9 @@
     "url": "https://nextcloud.itclowd.de",
     "icon": "https://nextcloud.com/c/uploads/2022/03/favicon.png",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.17%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
@@ -46,7 +46,8 @@
       "2026-01-12": 59,
       "2026-02-10": 224,
       "2026-02-13": 29,
-      "2026-05-20": 488
+      "2026-05-20": 488,
+      "2026-10-21": 0
     }
   },
   {
